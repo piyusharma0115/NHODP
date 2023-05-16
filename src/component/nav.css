@@ -1,0 +1,42 @@
+ul{  
+    left: 200px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    border-style:outset;
+}  
+li{
+    margin: 2px;
+    padding: 10px 40px;
+    background: rgb(255, 255, 255);
+    list-style: none;
+    border-radius: 14px;
+}
+a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+
+}
+img{
+    height: 50px;
+}
+
+p{
+    font-weight:bolder;
+}
+.img1:hover{
+    display:flex;
+    bottom: 0;
+    right: 30px;
+    border: -10px solid #f1f1f1;
+    z-index: 9;
+}
+.ip{
+    left: 15px;
+    position: relative;
+}
+.io{
+    padding-right: 250px;
+    margin-left: 0px;
+}

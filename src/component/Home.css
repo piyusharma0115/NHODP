@@ -1,0 +1,15 @@
+.title{
+    margin-top: 180px;
+    font-size: 70px;
+  font-weight: 600;
+
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: conic-gradient(#553c9a, #ee4b2b, #00c2cb, #553c9a);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.title1{
+    margin-top: 150px;
+}

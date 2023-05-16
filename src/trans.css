@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+  }
+  div{
+    padding:10px;
+  }
+  select{
+    padding: 5px;
+  }
+.buttontrans{
+  background: #ffffff;
+  position:relative;
+  width: 120px;
+  top: 20px;
+  left:120px;
+  border-radius: 10px;
+  color: #242424;
+  font-size: 1.5rem;
+}
+.text{
+    display:flex;
+}
+.outertrans{
+    position:relative;
+  width: 400px;
+  height: 300px;
+  left: 456px;
+  top: 30px;
+  background: #94a7f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 1), 0px 4px 4px rgba(0, 0, 0, 1);
+  border-radius: 2rem;
+  
+  }
+  textarea{
+    margin-top: 20px ;
+  }
